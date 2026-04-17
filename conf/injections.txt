@@ -1,0 +1,4 @@
+# time_ms node_id msg_type payload
+10 1 WORK task-17
+250 7 PING hello-from-driver
+500 1 CONTROL snapshot-start

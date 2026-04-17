@@ -1,0 +1,2 @@
+# time_ms node_id msg_type payload
+10 1 CONTROL ring-size-start

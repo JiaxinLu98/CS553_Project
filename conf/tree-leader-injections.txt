@@ -1,0 +1,6 @@
+# Tree Leader Election — optional external inputs
+# Format: time_ms node_id msg_type payload
+# The algorithm's leaves start electing automatically in onStart;
+# injections below are illustrative traffic only and do not drive the algorithm.
+10 0 CONTROL tree-leader-probe
+500 3 CONTROL tree-leader-probe
